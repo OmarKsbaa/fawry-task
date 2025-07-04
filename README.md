@@ -55,18 +55,18 @@ The demo application demonstrates the following scenarios:
 ### Successful Checkout
 ```
 ** Shipment notice **
-2x Cheese 200g
-1x TV 15000g
+1x TV 15000.0g
+2x Cheese 200.0g
 Total package weight 15.4kg
 ** Checkout receipt **
-2x Cheese 200.0
-1x TV 5000.0
-1x Scratch Card 50.0
+1x TV 499.99
+1x Scratch Card 25.0
+2x Cheese 15.98
 ----------------------
-Subtotal 5250.0
-Shipping 318.0
-Amount 5568.0
-Customer current balance: 4432.0
+Subtotal 540.97
+Shipping 43.49
+Amount 584.46
+Customer current balance: $415.54
 ```
 
 ### Error Scenarios
